@@ -1,4 +1,4 @@
-# Introduction-to-JavaScript
+# Section - 9: Introduction-to-JavaScript ES6
 
 101 - Intro to JS
 102 - JS Alerts - Adding Behaviour to Websites
@@ -11,4 +11,7 @@
 109 - String Lengths and Retrieving the Number of Characters
 110 - Slicing and Extracting Parts of a String
 111 - Challenge: Changing Casing in Text
-CHALLENGE NOT COMPLETED.
+112 - Challenge: Changing String Casing Solution
+113 - Basic Arihmentic and the Modulo Operator in JS
+114 - Increment and Decrement Expressions
+Quiz - JS numbers quiz
