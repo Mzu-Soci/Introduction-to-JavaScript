@@ -15,3 +15,47 @@
 - 113: Basic Arihmentic and the Modulo Operator in JS
 - 114: Increment and Decrement Expressions
 - Quiz: JS numbers quiz
+
+/**
+ * Welcome to the Stanford Karel IDE.
+ * This is a free space for you to 
+ * write any Karel program you want.
+ **/
+function main(){
+   //your code here
+   altBeeper();
+   altBeeper();
+   beepTurn();
+
+
+}
+
+function altBeeper() {
+   putBeeper();
+   move();
+   move();
+   }
+   
+function beepTurn(){
+   putBeeper();
+   turnLeft();
+   move();
+   turnLeft();
+   move();
+   }
+
+function diagBeeper(){
+   putBeeper();
+   move();
+   turnLeft();
+   move();
+   turnRight();
+   }
+   
+function step4(){
+   move();
+   move();
+   move();
+   move();
+   }
+
